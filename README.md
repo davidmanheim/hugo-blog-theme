@@ -2,11 +2,9 @@
 
 # [Hugo Academic Blog Theme](https://github.com/wowchemy/hugo-blog-theme)
 
-[![Screenshot](./preview.webp)](https://wowchemy.com/hugo-themes/)
-
 The **Hugo Academic Blog Template** empowers you to easily create your own *personal blog* or *build a business around your content*.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
 [![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
@@ -26,15 +24,6 @@ The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS make
 - 💡 [Suggest an improvement](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
 - ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
 
-## We ask you, humbly, to support this open source movement
-
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
-
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
 ## Demo credits
 
-- Images
-  - [cat](https://unsplash.com/photos/GtwiBmtJvaU) (in blog post)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/10f91505-d4b4-4bdd-8ea7-82da6d1096d4/deploy-status)](https://app.netlify.com/sites/davidmanheim/deploys)
